@@ -4,8 +4,7 @@
 
 ## Skills: 
 Backend
-[![Postman](https://icons8.com/icon/EPbEfEa7o8CB/postman-inc)](https://www.postman.com/)
-
+![Postman](https://img.shields.io/badge/-Postman-000010?style=for-the-badge&logo=postman)
 Logs
 [![Kibana](https://icons8.com/icon/3kWVd8r9XzWA/kibana)](https://www.elastic.co/kibana/)
 [![Sentry](https://icons8.com/icon/9OGYUSJBTyVk/sentry)](https://sentry.io/)
