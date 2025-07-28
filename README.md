@@ -3,9 +3,7 @@
 # 🪲 Love testing
 
 # Tools: 
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postman/postman-plain.svg" width="40" height="40"/>&nbsp;
-
+[![Postman](https://img.icons8.com/color/48/000000/postman.png)](path/to/postman/collection)
 
 
 
