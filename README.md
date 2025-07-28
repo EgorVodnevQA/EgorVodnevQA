@@ -1,6 +1,6 @@
-# Hi there 👋, my name is Egor
-# I am QA Engineer
-# 🪲 Love testing
+#👋 Hi there, my name is Egor
+#👀 I am QA Engineer
+#🪲 Love testing
 
 ## Skills: 
 Backend
