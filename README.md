@@ -3,7 +3,8 @@
 # 🪲 Love testing
 
 # Tools: 
-![Postman](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postman/postman-plain.svg)
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postman/postman-plain.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 
 
 
