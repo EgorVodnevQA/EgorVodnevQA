@@ -2,9 +2,9 @@
 # 👀 I am QA Engineer
 # 🪲 Love testing
 
-# Skills: 
+# Tools: 
+![Postman](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postman/postman-plain.svg)
 
-[![Postman](https://icons8.com/icon/EPbEfEa7o8CB/postman-inc)](path/to/postman/collection)
 
 
 
