@@ -21,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/jira/jira-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/firebase/firebase-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/?size=80&id=6WbypxLnLs37&format=png" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
-<img src="[https://img.icons8.com/?size=80&id=6WbypxLnLs37&format=png](https://www.jaegertracing.io/img/jaeger-logo.png)" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
+
 
 
   
