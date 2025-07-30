@@ -1,5 +1,5 @@
 # 👋 Hi there, my name is Egor
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=I+Love+testing+🪲)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39ce5ewidth=435&lines=I+Love+testing+🪲)](https://git.io/typing-svg)
 
 # Tools: 
 
